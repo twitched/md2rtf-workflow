@@ -4,6 +4,7 @@ An Mac Automator Workflow for converting Markdown to RTF.  Based on [Brett Terps
 
 ##Installation
 1. Install [Pandoc](http://johnmacfarlane.net/pandoc/)
+2. Clone repository
 2. Ensure it is available in the path on the terminal
 2. Double click on workflow file or copy into Library → Services.
 3. Copy email.css to ~
